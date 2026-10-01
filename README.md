@@ -1,4 +1,4 @@
-# Semantic Search and Embeddings with ChromaDB
+# Semantic Search and Embeddings with ChromaDB Using Manual Cosine Similarity
 
 ## Overview
 
